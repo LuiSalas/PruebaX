@@ -12,6 +12,15 @@ import SwiftyJSON
 
 class ViewController: UIViewController {
 
+    /*
+    @IBOutlet weak var btn1: UIButton!
+    @IBOutlet weak var lave2: UILabel!
+    @IBOutlet weak var txtView2: UITextView!
+    @IBOutlet weak var txtView: UITextView!
+    @IBOutlet weak var labelll: UILabel!
+    @IBOutlet weak var despues: UIButton!
+    */
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
